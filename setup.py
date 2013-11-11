@@ -8,7 +8,7 @@ setup(
     author = "Eldarion",
     author_email = "development@eldarion.com",
     description = "contact importing for Django",
-    long_description = open("README.rst").read(),
+    long_description = open("README.md").read(),
     license = "BSD",
     url = "http://github.com/eldarion/django-contacts-import",
     packages = find_packages(),
